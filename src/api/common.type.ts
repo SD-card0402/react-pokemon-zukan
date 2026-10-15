@@ -13,3 +13,4 @@ export interface Name {
 export interface APIResource {
   url: string;
 }
+
